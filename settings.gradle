@@ -1,0 +1,5 @@
+include ':mylibrary'
+include ':annotation-compiler'
+include ':annotations'
+include ':app'
+rootProject.name = "AnnotationTest"
